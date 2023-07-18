@@ -1,0 +1,4 @@
+name = "peer-server"
+compatibility_date = "2023-07-18"
+main = "index.js"
+node_compat = true
